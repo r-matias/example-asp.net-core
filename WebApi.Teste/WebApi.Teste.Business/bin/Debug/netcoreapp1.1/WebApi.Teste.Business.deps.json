@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "webapi.teste.business/1.0.0": {
+        "dependencies": {
+          "WebApi.Teste.IBusiness": "1.0.0"
+        },
+        "runtime": {
+          "WebApi.Teste.Business.dll": {}
+        }
+      },
+      "webapi.teste.entities/1.0.0": {
+        "runtime": {
+          "WebApi.Teste.Entities.dll": {}
+        }
+      },
+      "webapi.teste.ibusiness/1.0.0": {
+        "dependencies": {
+          "WebApi.Teste.IRepository": "1.0.0"
+        },
+        "runtime": {
+          "WebApi.Teste.IBusiness.dll": {}
+        }
+      },
+      "webapi.teste.irepository/1.0.0": {
+        "dependencies": {
+          "WebApi.Teste.Entities": "1.0.0"
+        },
+        "runtime": {
+          "WebApi.Teste.IRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "webapi.teste.business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webapi.teste.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webapi.teste.ibusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webapi.teste.irepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

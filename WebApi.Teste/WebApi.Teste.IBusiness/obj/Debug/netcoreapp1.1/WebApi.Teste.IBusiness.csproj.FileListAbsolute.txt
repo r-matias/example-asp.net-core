@@ -1,0 +1,11 @@
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\bin\Debug\netcoreapp1.1\WebApi.Teste.IBusiness.deps.json
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\bin\Debug\netcoreapp1.1\WebApi.Teste.IBusiness.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\bin\Debug\netcoreapp1.1\WebApi.Teste.IBusiness.pdb
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\bin\Debug\netcoreapp1.1\WebApi.Teste.Entities.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\bin\Debug\netcoreapp1.1\WebApi.Teste.IRepository.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\bin\Debug\netcoreapp1.1\WebApi.Teste.IRepository.pdb
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\bin\Debug\netcoreapp1.1\WebApi.Teste.Entities.pdb
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\obj\Debug\netcoreapp1.1\WebApi.Teste.IBusiness.csprojResolveAssemblyReference.cache
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\obj\Debug\netcoreapp1.1\WebApi.Teste.IBusiness.AssemblyInfo.cs
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\obj\Debug\netcoreapp1.1\WebApi.Teste.IBusiness.dll
+C:\Users\rafae\Documents\Visual Studio 2017\Projects\WebApi.Teste\WebApi.Teste.IBusiness\obj\Debug\netcoreapp1.1\WebApi.Teste.IBusiness.pdb

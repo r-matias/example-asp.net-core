@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "webapi.teste.irepository/1.0.0": {
+        "dependencies": {
+          "WebApi.Teste.Entities": "1.0.0"
+        },
+        "runtime": {
+          "WebApi.Teste.IRepository.dll": {}
+        }
+      },
+      "webapi.teste.entities/1.0.0": {
+        "runtime": {
+          "WebApi.Teste.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "webapi.teste.irepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webapi.teste.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

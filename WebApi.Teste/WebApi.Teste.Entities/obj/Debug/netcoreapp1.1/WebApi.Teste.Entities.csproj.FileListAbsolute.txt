@@ -1,0 +1,7 @@
+c:\users\rafae\documents\visual studio 2017\Projects\WebApi.Teste\WebApi.Teste.Entities\bin\Debug\netcoreapp1.1\WebApi.Teste.Entities.deps.json
+c:\users\rafae\documents\visual studio 2017\Projects\WebApi.Teste\WebApi.Teste.Entities\bin\Debug\netcoreapp1.1\WebApi.Teste.Entities.dll
+c:\users\rafae\documents\visual studio 2017\Projects\WebApi.Teste\WebApi.Teste.Entities\bin\Debug\netcoreapp1.1\WebApi.Teste.Entities.pdb
+c:\users\rafae\documents\visual studio 2017\Projects\WebApi.Teste\WebApi.Teste.Entities\obj\Debug\netcoreapp1.1\WebApi.Teste.Entities.AssemblyInfo.cs
+c:\users\rafae\documents\visual studio 2017\Projects\WebApi.Teste\WebApi.Teste.Entities\obj\Debug\netcoreapp1.1\WebApi.Teste.Entities.dll
+c:\users\rafae\documents\visual studio 2017\Projects\WebApi.Teste\WebApi.Teste.Entities\obj\Debug\netcoreapp1.1\WebApi.Teste.Entities.pdb
+c:\users\rafae\documents\visual studio 2017\Projects\WebApi.Teste\WebApi.Teste.Entities\obj\Debug\netcoreapp1.1\WebApi.Teste.Entities.csprojResolveAssemblyReference.cache
